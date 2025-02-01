@@ -1,4 +1,4 @@
-# README: Message Encoding and Decoding
+# Message Encoding and Decoding
 
 ## Overview
 This project provides a simple yet effective tool for **message encoding and decoding** using a secure key-based mechanism. Users can enter a message, encode it with a generated key, and later decode it using the same key to retrieve the original message.
